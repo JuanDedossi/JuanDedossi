@@ -1,6 +1,6 @@
 ### Hi there, I'm Juan Dedossi 👋
 
-
+##Full stack web developer 🖥️
 
 ### Connect with me:
 
