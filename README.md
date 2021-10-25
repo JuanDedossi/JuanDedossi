@@ -1,6 +1,6 @@
 ### Hi there, I'm Juan Dedossi 👋
 
-##Full stack web developer 🖥️
+## Full stack web developer 🖥️
 
 ### Connect with me:
 
@@ -23,7 +23,7 @@
 
 ## check my work 
 
-# PokeApp[Poke]
+# [PokeApp]
 🚀 Technologies: React - Redux - Bootstrap - NodeJS- Express - PostgreSQL - Passport
 <p>
   <a><img src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Landing.png"></a>
@@ -34,7 +34,7 @@
 
 [linkedin]: https://www.linkedin.com/in/juan-guillermo-dedossi-fullstack/
 [email]: mailto:juandedossi@yahoo.com
-[poke]:https://github.com/JuanDedossi/PI-Pokemon-main
+[PokeApp]:https://github.com/JuanDedossi/PI-Pokemon-main
 
 <!--
 **JuanDedossi/JuanDedossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
