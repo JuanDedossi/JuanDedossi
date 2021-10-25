@@ -1,32 +1,32 @@
-### Hi there, I'm Juan Dedossi 👋
+<h1 align="center">Hi there, I'm Juan Dedossi 👋</h1>
 
-# Full stack web developer 🖥️
+<h2 align="center"> Full stack web developer 🖥️</h2>
 
-### 📍 Connect with me:
+<h3 align="center">📍 Connect with me:</h3>
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="email" width="22px" color="purple" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
+[<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="email" width="22px" color="purple" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 
 <br />
 
 ### 📍 Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <p>Visual Studio Code</p>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
  <p>HTML5</p>
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
  <p>CSS3</p>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
  <p>JavaScript</p>
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
  <p>React</p>
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
  <p>SQL</p>
-<img align="left" alt="PostgreSql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
+<img align="center" alt="PostgreSql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
  <p>PostgreSql</p>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
  <p>Git</p>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
  <p>GitHub</p>
 </br>
 
@@ -35,9 +35,9 @@
 # [PokeApp]
 🚀 Technologies: React - Redux - Bootstrap - NodeJS- Express - PostgreSQL - Passport
 <p>
-  <img width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Landing.png">
-  <img width="350px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Home.png">
-  <img width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Create.png">
+  <img align="center" width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Landing.png">
+  <img align="center" width="350px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Home.png">
+  <img align="center" width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Create.png">
 </p>
 
 
