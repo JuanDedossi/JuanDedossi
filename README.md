@@ -27,9 +27,9 @@
 # [PokeApp]
 🚀 Technologies: React - Redux - Bootstrap - NodeJS- Express - PostgreSQL - Passport
 <p>
-  <img width="50px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Landing.png">
-  <img width="50px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Home.png">
-  <img width="50px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Create.png">
+  <img width="200px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Landing.png">
+  <img width="150px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Home.png">
+  <img width="200px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Create.png">
 </p>
 
 
