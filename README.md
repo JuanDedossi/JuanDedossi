@@ -4,12 +4,14 @@
 
 <h3 align="center">📍 Connect with me:</h3>
 
+<p align="center">
 [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="email" width="22px" color="purple" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
-
+</p>
 <br />
 
 <h2 align="center"> 📍 Languages and Tools:</h3>
+<p align="center">
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <p>Visual Studio Code</p>
 <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -28,12 +30,13 @@
  <p>Git</p>
 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
  <p>GitHub</p>
+ </p>
 </br>
 
 <h2 align="center"> 📍check my work </h2>
 
 <h1 align="center"> [PokeApp] </h1>
-🚀 Technologies: React - Redux - Bootstrap - NodeJS- Express - PostgreSQL - Passport
+<p align="center">🚀 Technologies: React - Redux - Bootstrap - NodeJS- Express - PostgreSQL - Passport</p>
 <p align="center">
   <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Landing.png">
   <img  width="350px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Home.png">
