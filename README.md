@@ -9,7 +9,7 @@
 
 <br />
 
-### 📍 Languages and Tools:
+<h2 align="center"> 📍 Languages and Tools:</h3>
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <p>Visual Studio Code</p>
 <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -30,14 +30,14 @@
  <p>GitHub</p>
 </br>
 
-## 📍check my work 
+<h2 align="center"> 📍check my work </h2>
 
-# [PokeApp]
+<h1 align="center"> [PokeApp] </h1>
 🚀 Technologies: React - Redux - Bootstrap - NodeJS- Express - PostgreSQL - Passport
-<p>
-  <img align="center" width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Landing.png">
-  <img align="center" width="350px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Home.png">
-  <img align="center" width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Create.png">
+<p align="center">
+  <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Landing.png">
+  <img  width="350px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Home.png">
+  <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Create.png">
 </p>
 
 
