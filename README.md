@@ -46,9 +46,9 @@
 ### 🚀 Technologies: React and javascript 
 
 <p>
-  <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Calc_purple.png">
-  <img  width="350px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Calc_white.png">
-  <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Calc_blue.png">
+  <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Calculator/Calc_purple.png">
+  <img  width="350px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Calculator/Calc_white.png">
+  <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Calculator/Calc_blue.png">
 </p>
 
 
