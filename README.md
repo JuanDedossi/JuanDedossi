@@ -41,6 +41,16 @@
   <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Create.png">
 </p>
 
+## [Calculator]
+
+### 🚀 Technologies: React and javascript 
+
+<p>
+  <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Calc_purple.png">
+  <img  width="350px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Calc_white.png">
+  <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Pokeapp/Calc_blue.png">
+</p>
+
 
 [linkedin]: https://www.linkedin.com/in/juan-guillermo-dedossi-fullstack/
 [email]: mailto:juandedossi@yahoo.com
