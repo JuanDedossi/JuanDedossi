@@ -55,6 +55,7 @@
 [linkedin]: https://www.linkedin.com/in/juan-guillermo-dedossi-fullstack/
 [email]: mailto:juandedossi@yahoo.com
 [PokeApp]:https://github.com/JuanDedossi/PI-Pokemon-main
+[calculator]:https://calculator-jd.vercel.app
 
 <!--
 **JuanDedossi/JuanDedossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
