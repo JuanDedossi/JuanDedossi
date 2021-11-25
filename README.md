@@ -32,6 +32,17 @@
 </br>
 
 ## 📍check my work
+## [Huellitas](https://huellitas.vercel.app/home)
+### Technologies:
+## FrontEnd: Typescript - React - Redux - Material UI - Socket.io
+## BackEnd: Javascript - Nodejs - Express - Mongooze - Socket.io - Passport - Nodemail
+## Data Base : MongoDB
+<p>
+  <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Huellitas/huellitas_home.png">
+  <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Huellitas/huellitas_public.png">
+  <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Huellitas/huellitas_public2.png">
+  <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Huellitas/huellitas_Shelters.png">
+</p>
 
 ## [PokeApp] 
 ### 🚀 Technologies: React - Redux - NodeJS- Express - PostgreSQL - Sequalize
