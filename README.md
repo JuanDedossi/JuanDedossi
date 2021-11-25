@@ -62,7 +62,7 @@ Busco nuevos desafíos donde utilizar mis habilidades y la oportunidad de crecer
 
 <p>
   <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Calculator/Calc_purple.png">
-  <img  width="350px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Calculator/Calc_white.png">
+  <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Calculator/Calc_white.png">
   <img  width="400px" src="https://github.com/JuanDedossi/JuanDedossi/blob/main/Calculator/Calc_blue.png">
 </p>
 
