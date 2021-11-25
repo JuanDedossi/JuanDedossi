@@ -1,5 +1,9 @@
 ### Hi there, I'm Juan Dedossi 👋
 
+De pequeño empecé mi aprendizaje con una computadora.
+Hoy soy un desarrollador web Full Stack apasionado de la tecnología y amante de la programación con conocimientos en javascript.
+Busco nuevos desafíos donde utilizar mis habilidades y la oportunidad de crecer en el ambiente laboral, personal e intelectual.
+
 ## Full stack web developer 🖥️
 
 # 📍 Connect with me:
